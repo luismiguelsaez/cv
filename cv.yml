@@ -46,7 +46,8 @@ Experience:
       - RedHat Enterprise Linux Administration, SELinux advanced managing, system tuning, networking, etc.
       - MongoDB NoSQL database replicaset administration and tuning, including OpsManager snapshot and backup
       - Security vulnerabilities scan with Nessus, Docker container vulnerabilities managing ( Clair and Anchore ), system security ( CIS compliance ) and Linux system hardening.
-      - Github code management ( branching, pull requests, triggers, etc. )
+      - Github code management ( branching, pull requests, triggers, etc. ).
+      - Servers security configuration, including CIS compliance, SELinux and iptables. Nessus vulnerability scanning and fixing ( patching and/or upgrading ).
     
   - Title: Devops Engineer
     Company: Madison MK
@@ -65,7 +66,9 @@ Experience:
       - Infrastructure as code definition with Terraform ( AWS provider ) and Ansible.
       - Docker Swarm services deployment.
       - Bitbucket code management.
-      - MySQL database administration and configuration ( master-slave )
+      - MySQL database administration and configuration ( master-slave ), including slow query analysis and optimization.
+      - Servers security configuration, including CIS compliance, SELinux and iptables.
+      - PKI and SSL certificates administration, including LetsEncrypt automation through certbot.
     
   - Title: Linux Systems Administrator
     Company: Tecnocom
@@ -81,6 +84,8 @@ Experience:
       - Apache servers configuration and administration ( virtualhost, reverse-proxy, plugins, ... )
       - Weblogic application servers configuration and administration ( tuning, application configuration, deployments, installation, upgrade, ... )
       - Ansible for VMWare virtual machines deployment and configuration
+      - Servers security configuration, including CIS compliance, SELinux and iptables.
+      - PKI and SSL certificates administration.
   
   - Title: Linux Systems Administrator
     Company: GFI
@@ -91,10 +96,11 @@ Experience:
     Description: |
       Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
     Key experience:
-      - Linux servers administration, including VM provision, automated configuration, applications installation, storage, networking, etc.
+      - Linux servers administration ( up to 50 servers ), including VM provision, automated configuration, applications installation, storage, networking, etc.
       - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
       - Systems configuration automation through several tools and scripting ( python, bash, awk )
       - Production troubleshooting, analyzing networking, performance problems, etc.
+      - PKI and SSL certificates administration.
 
   - Title: Systems integration consultant
     Company: Ciber
@@ -104,6 +110,11 @@ Experience:
     Location: Madrid
     Description: |
       Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+    Key experience:
+      - Linux servers administration and configuration ( CentOS and Ubuntu server ).
+      - Apache web server configuration and administration.
+      - Weblogic 10 administration, configuration, upgrading and applications maintenance.
+      - PKI and SSL certificates administration.
 
   - Title: Linux Systems Administrator
     Company: Tuyú Technologies
@@ -113,6 +124,10 @@ Experience:
     Location: Madrid
     Description: |
       Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+    Key experience:
+      - Solaris 10 and Linux RHEL servers administration and HA ( up to 100 servers ).
+      - Veritas cluster and volume manager administration.
+      - Physical servers maintenance and troubleshooting ( datacenter tasks ).
     
   - Title: Systems Technician
     Company: Indra
@@ -122,3 +137,9 @@ Experience:
     Location: Madrid
     Description: |
       Linux and Solaris systems administration. Weblogic servers configuration, tuning and administration. Business applications maintenance, troubleshooting, testing and upgrading.
+    Key experience:
+      - Linux RHEL and Solaris 9 servers administration.
+      - Weblogic applications maintenance, including upgrading, configuration and release managing on production critical environments.
+      - Bash scripting for tasks automation, such as database data extraction and reporting.
+      - Oracle database complex query definition for data extraction and troubleshooting.
+      - User incidences analysis and resolution, including code bug detection along with development teams.
