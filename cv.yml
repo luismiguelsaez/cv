@@ -34,19 +34,19 @@ Experience:
       Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
     Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
     Key experience:
-    - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
-    - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
-    - Ansible roles definition and testing with Molecule ( Openstack, Vagrant and/or Docker driven )
-    - Docker images definition, focusing on lightening and simplifying. Security vulnerabilities scanning through Trivy and Anchore.
-    - Docker registry configuration and image lifecycle managing with Harbor ( project and user management, image scanning, garbage collection, etc. )
-    - Jenkins CI/CD pipeline ( groovy ) definition for application testing and deployment, including functionality extension with shared libraries
-    - Terraform recipe and infrastructure definition, for deploying on OpenStack or AWS environments, based on dynamic inventory from cloud provider
-    - Deployment and tuning of ELK stack for production logs ingestion and monitoring, including Logstash pipeline configuration, Kibana dashboard definition, filebeat/metricbeat, etc.
-    - Elastic X-Pack security configuration, including SSL certificates, user roles, etc.
-    - RedHat Enterprise Linux Administration, SELinux advanced managing, system tuning, networking, etc.
-    - MongoDB NoSQL database replicaset administration and tuning, including OpsManager snapshot and backup
-    - Security vulnerabilities scan with Nessus, Docker container vulnerabilities managing ( Clair and Anchore ), system security ( CIS compliance ) and Linux system hardening.
-    - Github code management ( branching, pull requests, triggers, etc. )
+      - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
+      - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
+      - Ansible roles definition and testing with Molecule ( Openstack, Vagrant and/or Docker driven )
+      - Docker images definition, focusing on lightening and simplifying. Security vulnerabilities scanning through Trivy and Anchore.
+      - Docker registry configuration and image lifecycle managing with Harbor ( project and user management, image scanning, garbage collection, etc. )
+      - Jenkins CI/CD pipeline ( groovy ) definition for application testing and deployment, including functionality extension with shared libraries
+      - Terraform recipe and infrastructure definition, for deploying on OpenStack or AWS environments, based on dynamic inventory from cloud provider
+      - Deployment and tuning of ELK stack for production logs ingestion and monitoring, including Logstash pipeline configuration, Kibana dashboard definition, filebeat/metricbeat, etc.
+      - Elastic X-Pack security configuration, including SSL certificates, user roles, etc.
+      - RedHat Enterprise Linux Administration, SELinux advanced managing, system tuning, networking, etc.
+      - MongoDB NoSQL database replicaset administration and tuning, including OpsManager snapshot and backup
+      - Security vulnerabilities scan with Nessus, Docker container vulnerabilities managing ( Clair and Anchore ), system security ( CIS compliance ) and Linux system hardening.
+      - Github code management ( branching, pull requests, triggers, etc. )
     
   - Title: Devops Engineer
     Company: Madison MK
@@ -57,15 +57,15 @@ Experience:
     Description: |
       Cloud infrastructure definition as microservices ( AWS ). Web applications migration to containerized on AWS ECS service. Defining CI/CD pipelines on Jenkins.
     Key experience:
-    - Cloud infrastructure definition and managing on AWS, including sevices such as ECS, ECR, S3, EC2, IAM, ALB, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
-    - Logs ingestion and managing on Graylog and ELK stack.
-    - Jenkins CI/CD pipelines definition ( Declarative as Jenkinsfile, Groovy, ... )
-    - VMWare ESX management, including VM definition, storage and networkin management, etc.
-    - RHEL and Ubuntu Server administration.
-    - Infrastructure as code definition with Terraform ( AWS provider ) and Ansible.
-    - Docker Swarm services deployment.
-    - Bitbucket code management.
-    - MySQL database administration and configuration ( master-slave )
+      - Cloud infrastructure definition and managing on AWS, including sevices such as ECS, ECR, S3, EC2, IAM, ALB, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
+      - Logs ingestion and managing on Graylog and ELK stack.
+      - Jenkins CI/CD pipelines definition ( Declarative as Jenkinsfile, Groovy, ... )
+      - VMWare ESX management, including VM definition, storage and networkin management, etc.
+      - RHEL and Ubuntu Server administration.
+      - Infrastructure as code definition with Terraform ( AWS provider ) and Ansible.
+      - Docker Swarm services deployment.
+      - Bitbucket code management.
+      - MySQL database administration and configuration ( master-slave )
     
   - Title: Linux Systems Administrator
     Company: Tecnocom
@@ -77,10 +77,10 @@ Experience:
       Linux systems administration and configuration automation with Ansible. Web application servers administration, application deployment, upgrade, etc.
     Key experience:
       - Servers architecture administration on VMWare ESX
-    - RHEL and Solaris operating systems administration, configuration, tuning and troubleshooting.
-    - Apache servers configuration and administration ( virtualhost, reverse-proxy, plugins, ... )
-    - Weblogic application servers configuration and administration ( tuning, application configuration, deployments, installation, upgrade, ... )
-    - Ansible for VMWare virtual machines deployment and configuration
+      - RHEL and Solaris operating systems administration, configuration, tuning and troubleshooting.
+      - Apache servers configuration and administration ( virtualhost, reverse-proxy, plugins, ... )
+      - Weblogic application servers configuration and administration ( tuning, application configuration, deployments, installation, upgrade, ... )
+      - Ansible for VMWare virtual machines deployment and configuration
   
   - Title: Linux Systems Administrator
     Company: GFI
@@ -92,9 +92,9 @@ Experience:
       Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
     Key experience:
       - Linux servers administration, including VM provision, automated configuration, applications installation, storage, networking, etc.
-    - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
-    - Systems configuration automation through several tools and scripting ( python, bash, awk )
-    - Production troubleshooting, analyzing networking, performance problems, etc.
+      - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
+      - Systems configuration automation through several tools and scripting ( python, bash, awk )
+      - Production troubleshooting, analyzing networking, performance problems, etc.
 
   - Title: Systems integration consultant
     Company: Ciber
