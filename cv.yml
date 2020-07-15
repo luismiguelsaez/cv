@@ -1,125 +1,124 @@
 ---
 
-  Contact:
-  
-    Name: Luis Miguel Sáez Martín
-    Location:
-      Country: Spain
-      City: Valladolid
-    Phone number: +34653066701
-    Email: luismiguelsaez83@gmail.com
-    LinkedIn: https://www.linkedin.com/in/luismiguelsaez
-    Github: https://github.com/h4rdL1nk
-  
-  Education:
-  
-    - Location: Segovia
-      Title: Superior Informatic System Technician
-  
-  Resume: |
-    As a vocational Unix/Linux sysadmin, I enjoy exploring and testing new technologies and trends, as I think that this makes me better in my work, and this is also my hobby.
-    I have a lot of experience administering most popular Linux distros, like RHEL/CentOS, Ubuntu, etc. in high-availability production and critical environments.
-    Some years ago, I started learning and testing some DevOps tools and metodologies, and deploying/migrating services to cloud, like AWS; and now, I am working with AWS cloud, and automating everything through Terraform, Vagrant, Ansible, Docker, Jenkins, etc.
-    My personal "soft" skills are flexibility and capacity to learn new technologies, persistence while solving problems and a great curiosity for every new technology I know about.
-  
-  Experience:
-  
-    - Title: Devops Engineer
-      Company: Telefónica I+D
-      Duration:
-        Begin: 2017-11
-        End: currently
-      Location: Valladolid
-      Description: |
-        Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
-      Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
-      Key experience:
-      - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
-      - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
-      - Ansible roles definition and testing with Molecule ( Openstack, Vagrant and/or Docker driven )
-      - Docker images definition, focusing on lightening and simplifying. Security vulnerabilities scanning through Trivy and Anchore.
-      - Docker registry configuration and image lifecycle managing with Harbor ( project and user management, image scanning, garbage collection, etc. )
-      - Jenkins CI/CD pipeline ( groovy ) definition for application testing and deployment, including functionality extension with shared libraries
-      - Terraform recipe and infrastructure definition, for deploying on OpenStack or AWS environments, based on dynamic inventory from cloud provider
-      - Deployment and tuning of ELK stack for production logs ingestion and monitoring, including Logstash pipeline configuration, Kibana dashboard definition, filebeat/metricbeat, etc.
-      - Elastic X-Pack security configuration, including SSL certificates, user roles, etc.
-      - RedHat Enterprise Linux Administration, SELinux advanced managing, system tuning, networking, etc.
-      - MongoDB NoSQL database replicaset administration and tuning, including OpsManager snapshot and backup
-      - Security vulnerabilities scan with Nessus, Docker container vulnerabilities managing ( Clair and Anchore ), system security ( CIS compliance ) and Linux system hardening.
-      - Github code management ( branching, pull requests, triggers, etc. )
-      
-    - Title: Devops Engineer
-      Company: Madison MK
-      Duration:
-        Begin: 2016-05
-        End: 2017-10
-      Location: Valladolid
-      Description: |
-        Cloud infrastructure definition as microservices ( AWS ). Web applications migration to containerized on AWS ECS service. Defining CI/CD pipelines on Jenkins.
-      Key experience:
-      - Cloud infrastructure definition and managing on AWS, including sevices such as ECS, ECR, S3, EC2, IAM, ALB, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
-      - Logs ingestion and managing on Graylog and ELK stack.
-      - Jenkins CI/CD pipelines definition ( Declarative as Jenkinsfile, Groovy, ... )
-      - VMWare ESX management, including VM definition, storage and networkin management, etc.
-      - RHEL and Ubuntu Server administration.
-      - Infrastructure as code definition with Terraform ( AWS provider ) and Ansible.
-      - Docker Swarm services deployment.
-      - Bitbucket code management.
-      - MySQL database administration and configuration ( master-slave )
-      
-    - Title: Linux Systems Administrator
-      Company: Tecnocom
-      Duration:
-        Begin: 2014-10
-        End: 2016-05
-      Location: Madrid
-      Description: |
-        Linux systems administration and configuration automation with Ansible. Web application servers administration, application deployment, upgrade, etc.
-      Key experience:
-        - Servers architecture administration on VMWare ESX
-      - RHEL and Solaris operating systems administration, configuration, tuning and troubleshooting.
-      - Apache servers configuration and administration ( virtualhost, reverse-proxy, plugins, ... )
-      - Weblogic application servers configuration and administration ( tuning, application configuration, deployments, installation, upgrade, ... )
-      - Ansible for VMWare virtual machines deployment and configuration
+Contact:
+
+  Name: Luis Miguel Sáez Martín
+  Location:
+    Country: Spain
+    City: Valladolid
+  Phone number: +34653066701
+  Email: luismiguelsaez83@gmail.com
+  LinkedIn: https://www.linkedin.com/in/luismiguelsaez
+  Github: https://github.com/h4rdL1nk
+
+Education:
+
+  - Location: Segovia
+    Title: Superior Informatic System Technician
+
+Resume: |
+  As a vocational Unix/Linux sysadmin, I enjoy exploring and testing new technologies and trends, as I think that this makes me better in my work, and this is also my hobby.
+  I have a lot of experience administering most popular Linux distros, like RHEL/CentOS, Ubuntu, etc. in high-availability production and critical environments.
+  Some years ago, I started learning and testing some DevOps tools and metodologies, and deploying/migrating services to cloud, like AWS; and now, I am working with AWS cloud, and automating everything through Terraform, Vagrant, Ansible, Docker, Jenkins, etc.
+  My personal "soft" skills are flexibility and capacity to learn new technologies, persistence while solving problems and a great curiosity for every new technology I know about.
+
+Experience:
+
+  - Title: Devops Engineer
+    Company: Telefónica I+D
+    Duration:
+      Begin: 2017-11
+      End: currently
+    Location: Valladolid
+    Description: |
+      Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
+    Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
+    Key experience:
+    - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
+    - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
+    - Ansible roles definition and testing with Molecule ( Openstack, Vagrant and/or Docker driven )
+    - Docker images definition, focusing on lightening and simplifying. Security vulnerabilities scanning through Trivy and Anchore.
+    - Docker registry configuration and image lifecycle managing with Harbor ( project and user management, image scanning, garbage collection, etc. )
+    - Jenkins CI/CD pipeline ( groovy ) definition for application testing and deployment, including functionality extension with shared libraries
+    - Terraform recipe and infrastructure definition, for deploying on OpenStack or AWS environments, based on dynamic inventory from cloud provider
+    - Deployment and tuning of ELK stack for production logs ingestion and monitoring, including Logstash pipeline configuration, Kibana dashboard definition, filebeat/metricbeat, etc.
+    - Elastic X-Pack security configuration, including SSL certificates, user roles, etc.
+    - RedHat Enterprise Linux Administration, SELinux advanced managing, system tuning, networking, etc.
+    - MongoDB NoSQL database replicaset administration and tuning, including OpsManager snapshot and backup
+    - Security vulnerabilities scan with Nessus, Docker container vulnerabilities managing ( Clair and Anchore ), system security ( CIS compliance ) and Linux system hardening.
+    - Github code management ( branching, pull requests, triggers, etc. )
     
-    - Title: Linux Systems Administrator
-      Company: GFI
-      Duration:
-        Begin: 2013-01
-        End: 2014-10
-      Location: Madrid
-      Description: |
-        Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
-      Key experience:
-        - Linux servers administration, including VM provision, automated configuration, applications installation, storage, networking, etc.
-      - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
-      - Systems configuration automation through several tools and scripting ( python, bash, awk )
-      - Production troubleshooting, analyzing networking, performance problems, etc.
+  - Title: Devops Engineer
+    Company: Madison MK
+    Duration:
+      Begin: 2016-05
+      End: 2017-10
+    Location: Valladolid
+    Description: |
+      Cloud infrastructure definition as microservices ( AWS ). Web applications migration to containerized on AWS ECS service. Defining CI/CD pipelines on Jenkins.
+    Key experience:
+    - Cloud infrastructure definition and managing on AWS, including sevices such as ECS, ECR, S3, EC2, IAM, ALB, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
+    - Logs ingestion and managing on Graylog and ELK stack.
+    - Jenkins CI/CD pipelines definition ( Declarative as Jenkinsfile, Groovy, ... )
+    - VMWare ESX management, including VM definition, storage and networkin management, etc.
+    - RHEL and Ubuntu Server administration.
+    - Infrastructure as code definition with Terraform ( AWS provider ) and Ansible.
+    - Docker Swarm services deployment.
+    - Bitbucket code management.
+    - MySQL database administration and configuration ( master-slave )
+    
+  - Title: Linux Systems Administrator
+    Company: Tecnocom
+    Duration:
+      Begin: 2014-10
+      End: 2016-05
+    Location: Madrid
+    Description: |
+      Linux systems administration and configuration automation with Ansible. Web application servers administration, application deployment, upgrade, etc.
+    Key experience:
+      - Servers architecture administration on VMWare ESX
+    - RHEL and Solaris operating systems administration, configuration, tuning and troubleshooting.
+    - Apache servers configuration and administration ( virtualhost, reverse-proxy, plugins, ... )
+    - Weblogic application servers configuration and administration ( tuning, application configuration, deployments, installation, upgrade, ... )
+    - Ansible for VMWare virtual machines deployment and configuration
   
-    - Title: Systems integration consultant
-      Company: Ciber
-      Duration:
-        Begin: 2011-12
-        End: 2013-01
-      Location: Madrid
-      Description: |
-        Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
-  
-    - Title: Linux Systems Administrator
-      Company: Tuyú Technologies
-      Duration:
-        Begin: 2010-06
-        End: 2011-12
-      Location: Madrid
-      Description: |
-        Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
-      
-    - Title: Systems Technician
-      Company: Indra
-      Duration:
-        Begin: 2008-07
-        End: 2010-03
-      Location: Madrid
-      Description: |
-        Linux and Solaris systems administration. Weblogic servers configuration, tuning and administration. Business applications maintenance, troubleshooting, testing and upgrading.
-  
+  - Title: Linux Systems Administrator
+    Company: GFI
+    Duration:
+      Begin: 2013-01
+      End: 2014-10
+    Location: Madrid
+    Description: |
+      Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+    Key experience:
+      - Linux servers administration, including VM provision, automated configuration, applications installation, storage, networking, etc.
+    - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
+    - Systems configuration automation through several tools and scripting ( python, bash, awk )
+    - Production troubleshooting, analyzing networking, performance problems, etc.
+
+  - Title: Systems integration consultant
+    Company: Ciber
+    Duration:
+      Begin: 2011-12
+      End: 2013-01
+    Location: Madrid
+    Description: |
+      Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+
+  - Title: Linux Systems Administrator
+    Company: Tuyú Technologies
+    Duration:
+      Begin: 2010-06
+      End: 2011-12
+    Location: Madrid
+    Description: |
+      Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+    
+  - Title: Systems Technician
+    Company: Indra
+    Duration:
+      Begin: 2008-07
+      End: 2010-03
+    Location: Madrid
+    Description: |
+      Linux and Solaris systems administration. Weblogic servers configuration, tuning and administration. Business applications maintenance, troubleshooting, testing and upgrading.
