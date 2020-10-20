@@ -20,7 +20,8 @@ Education:
 
 Resume: |
   As a vocational Unix/Linux sysadmin, I enjoy exploring and testing new technologies and trends, as I think that this makes me better in my work, and this is also my hobby.
-  I have a lot of experience administering most popular Linux distros, like RHEL/CentOS, Ubuntu, etc. in high-availability production and critical environments.
+  I have a lot of experience administering most popular Linux distros, like RHEL/CentOS, Ubuntu, etc. in high-availability production and critical environments, always focused on security.
+  Long experience with web application infrastructures, including Apache and Nginx web-servers and most popular application engines, like Weblogic and Tomcat, defining and improving infrastructures for maximum reliability.
   Some years ago, I started learning and testing some DevOps tools and metodologies, and deploying/migrating services to cloud, like AWS; and now, I am working with AWS cloud, and automating everything through Terraform, Vagrant, Ansible, Docker, Jenkins, etc.
   My personal "soft" skills are flexibility and capacity to learn new technologies, persistence while solving problems and a great curiosity for every new technology I know about.
 
@@ -71,6 +72,7 @@ Experience:
       - MySQL database administration and configuration ( master-slave ), including slow query analysis and optimization.
       - Servers security configuration, including CIS compliance, SELinux and iptables.
       - PKI and SSL certificates administration, including LetsEncrypt automation through certbot.
+      - Web server installation and configuration ( Apache and Nginx ) tasks, such as reverse proxy, virtualhosts, security, load-balancing, etc.
     
   - Title: Linux Systems Administrator
     Company: Tecnocom
@@ -130,6 +132,7 @@ Experience:
       - Solaris 10 and Linux RHEL servers administration and HA ( up to 100 servers ).
       - Veritas cluster and volume manager administration.
       - Physical servers maintenance and troubleshooting ( datacenter tasks ).
+      - Production-grade servers maintenance and troubleshooting, including RHEL and Ubuntu. Security compliance, packages management, SELinux, storage, etc.
     
   - Title: Systems Technician
     Company: Indra
