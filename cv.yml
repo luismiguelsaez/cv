@@ -35,7 +35,7 @@ Experience:
     Location: Valladolid
     Description: |
       Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
-    Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
+      Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
     Key experience:
       - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
       - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
