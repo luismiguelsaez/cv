@@ -25,6 +25,54 @@ Resume: |
   Some years ago, I started learning and testing some DevOps tools and metodologies, and deploying/migrating services to cloud, like AWS; and now, I am working with AWS cloud, and automating everything through Terraform, Vagrant, Ansible, Docker, Jenkins, etc.
   My personal "soft" skills are flexibility and capacity to learn new technologies, persistence while solving problems and a great curiosity for every new technology I know about.
 
+Skills:
+
+  Soft:
+
+    - Adaptability to changes in working requirements and new technologies
+    - Team attitude, focusing in knowledge sharing and efficient tasks distribution
+    - Disposition to adaptation, based on feedback regarding weakenesses
+    - Problem solving, specially under pressure within critical environments
+    - Eagerness regarding knowledge update and new technologies adoption
+
+  Automation:
+
+    - Develop Ansible roles and testing procedures, focusing in idempotence and reusability
+    - Develop infrastructure as code with Terraform/Ansible
+    - Design jenkins pipelines for applications build ( docker,gradle,... )
+
+  Infrastructure:
+
+    - Find cloud services that best fit the requirements
+    - Achieve high avalability and redundancy ( LB, zones, storage replication, etc. )
+    - Data backup strategy
+    - Conduct performance testing ( JMeter )
+    - Define best monitoring tools to use and logging storage strategy
+    - Define service scaling methods ( horizontal, vertical, resource driven, etc. )
+    - Define cost efficient services usage ( services uptime, storage, resources, etc. )
+
+  Programming:
+
+    - Strong understanding of J2EE environments and java language for issues analysis, thread analysis and performance problems
+    - Long experience with bash scripting for diverse tasks, along with AWK language for high size files processing
+    - Experience with python programming to create sysadmin oriented scripts
+
+  Development:
+
+    Issues:
+
+      - Database issues like slow queries, connectivity, authentication, permissions, etc.
+      - Performance issues like resources usage, networking, etc.
+      - Functionality issues
+
+    Infrastructure:
+
+      - Database requirements
+      - Storage requirements in cloud environments like S3, EFS, EBS, etc.
+      - Resources limits and requirements
+      - Find cost efficient balance between needed resources and usage
+      - Autoscaling definitions for microservices components
+
 Experience:
 
   - Title: Devops Engineer
