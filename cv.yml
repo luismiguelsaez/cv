@@ -83,7 +83,11 @@ Experience:
     Location: Valladolid
     Description: |
       Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
-      Defining containerized applications ( Docker ) and automating CI/CD tasks ( Jenkins ).
+      Defining containerized applications ( Docker ) and automating CI/CD pipelines ( Jenkins ).
+    Accomplishments:
+      - Successful infrastructure as code automation with Terraform in OpenStack and AWS infrastructures
+      - Deployments automation on VMWare based applications through self-developed Ansible roles
+      - Full deployment automation of Elasticsearch Stack through Ansible roles and dynamic inventory
     Key experience:
       - Cloud infrastructure definition and managing on AWS, including sevices such as EKS, ECR, S3, EC2, IAM, ALB, Lambda, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
       - Kubernetes ( managed AWS EKS service ) services definition and deployment through Helm charts. AWS ALB ingress controller configuration, serviceaccounts, etc.
@@ -108,6 +112,10 @@ Experience:
     Location: Valladolid
     Description: |
       Cloud infrastructure definition as microservices ( AWS ). Web applications migration to containerized on AWS ECS service. Defining CI/CD pipelines on Jenkins.
+    Accomplishments:
+      - New microservices architecture definition in AWS/ECS, including CI/CD pipelines, resource based autoscaling and application docker images optimization
+      - Implementation of Graylog based log ingestion for on-premises applications and FW observability
+      - Successful migration from on-premises Apache/PHP based applications to containerized Cloud infrastructure ( AWS/ECS )
     Key experience:
       - Cloud infrastructure definition and managing on AWS, including sevices such as ECS, ECR, S3, EC2, IAM, ALB, Cloudwatch, etc. Security focused services configuration, with IAM roles and policies, S3 policies, EC2 security group, VPC subnets isolation, etc.
       - Logs ingestion and managing on Graylog and ELK stack.
@@ -130,6 +138,11 @@ Experience:
     Location: Madrid
     Description: |
       Linux systems administration and configuration automation with Ansible. Web application servers administration, application deployment, upgrade, etc.
+    Accomplishments:
+      - Postfix based relay HA infrastructure definition and implementation for massive mail sending
+      - Applications logs processing through AWS for statistics and common errors detection and troubleshooting
+      - VMWare infrastructure servers SO upgrade automation, in order to minimize platform downtimes and errors
+      - Automation of VMWare servers provision through Packer and Ansible
     Key experience:
       - Servers architecture administration on VMWare ESX
       - RHEL and Solaris operating systems administration, configuration, tuning and troubleshooting.
@@ -147,6 +160,8 @@ Experience:
     Location: Madrid
     Description: |
       Linux systems administration and configuration. Apache webserver and Weblogic administration and configuration.
+    Accomplishments:
+      - Critical system administration tasks automation through bash scripting, AWK and expect tools
     Key experience:
       - Linux servers administration ( up to 50 servers ), including VM provision, automated configuration, applications installation, storage, networking, etc.
       - Apache web servers frontend configuration along with backend Weblogic application servers through communication plugins.
@@ -190,6 +205,8 @@ Experience:
     Location: Madrid
     Description: |
       Linux and Solaris systems administration. Weblogic servers configuration, tuning and administration. Business applications maintenance, troubleshooting, testing and upgrading.
+    Accomplishments:
+      - Implementation of automated database data extraction for reporting purposes, through bash and AWS scripting
     Key experience:
       - Linux RHEL and Solaris 9 servers administration.
       - Weblogic applications maintenance, including upgrading, configuration and release managing on production critical environments.
