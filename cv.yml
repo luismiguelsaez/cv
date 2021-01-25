@@ -76,11 +76,23 @@ Skills:
 Experience:
 
   - Title: Devops Engineer
+    Company: Empathy.co
+    Duration:
+      Begin: 2021-01
+      End: Currently
+    Location: Asturias ( remote )
+    Description: |
+      Administration and automation of multi-cloud ( AWS, GCP ) microservices containerized ( ECS, EKS, GKE ) infrastructures through Terraform and Atlantis.
+      Working on CI/CD with development teams to ensure confiable testing on build and deployment stages, based on Jenkins code-based pipelines and groovy modules.
+    Accomplishments:
+    Key experience:
+
+  - Title: Devops Engineer
     Company: Telefónica I+D
     Duration:
       Begin: 2017-11
-      End: currently
-    Location: Valladolid
+      End: 2021-01
+    Location: Valladolid ( remote )
     Description: |
       Automating infraestructure ( Terraform ) and configuration ( Ansible ) on Cloud ( AWS, OST ) and on-premises environments ( VMWare ).
       Defining containerized applications ( Docker ) and automating CI/CD pipelines ( Jenkins ).
