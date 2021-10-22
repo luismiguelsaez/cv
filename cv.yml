@@ -75,11 +75,29 @@ Skills:
 
 Experience:
 
+  - Title: Senior Site Reliability Engineer
+    Company: Lokalise
+    Duration:
+      Begin: 2021-09
+      End: currently
+    Location: Riga ( remote )
+    Description: |
+      Migrating applications to AWS and improving observability through NewRelic, Elasticsearch, Prometheus and Grafana. Automating deployments with Terraform + Terragrunt.
+    Accomplishments:
+      - Successful migration of critical services to public cloud ( AWS )
+      - Increasing observability and alarms for each application component
+      - Achieved application scalability for high pace customer growth
+    Key experience:
+      - Cloud infrastructure ( IaC ) definition with Terraform + Terragrunt
+      - Configuration of Prometheus+Grafana, including exporters, graphs, dashboards and alarms
+      - Server configuration through Ansible roles and dynamic inventory
+      - Generation of server images ( AWS/AMI ) with Packer
+      
   - Title: Devops Engineer
     Company: Empathy.co
     Duration:
       Begin: 2021-01
-      End: currently
+      End: 2021-09
     Location: Gijón ( remote )
     Description: |
       Automating multi-cloud infraestructure through Terraform + Atlantis. Defininig applications CI/CD on Kubernetes with Jenkins and ArgoCD.
